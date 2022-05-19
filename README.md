@@ -36,7 +36,7 @@ Users should be able to:
 - created main functional component
 - created an app functional component to wrapper the main 
 - used index.css to style the page
-- render the app functional component to the DOM 
+- render the app functional component to the DOM. 
 
 
 
