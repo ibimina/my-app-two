@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/https//ibimina.github.io/my-app-two/static/css/main.1dcf8267.css",
-    "main.js": "/https//ibimina.github.io/my-app-two/static/js/main.90f128f2.js",
-    "index.html": "/https//ibimina.github.io/my-app-two/index.html",
-    "main.1dcf8267.css.map": "/https//ibimina.github.io/my-app-two/static/css/main.1dcf8267.css.map",
-    "main.90f128f2.js.map": "/https//ibimina.github.io/my-app-two/static/js/main.90f128f2.js.map"
+    "main.css": "/my-app-two/static/css/main.1dcf8267.css",
+    "main.js": "/my-app-two/static/js/main.90f128f2.js",
+    "index.html": "/my-app-two/index.html",
+    "main.1dcf8267.css.map": "/my-app-two/static/css/main.1dcf8267.css.map",
+    "main.90f128f2.js.map": "/my-app-two/static/js/main.90f128f2.js.map"
   },
   "entrypoints": [
     "static/css/main.1dcf8267.css",
